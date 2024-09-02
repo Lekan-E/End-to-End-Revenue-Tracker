@@ -37,3 +37,6 @@ Docked Bike = $0.40/minute
 
 ### Data Filters
 Allow users to filter data by product information like category and subcategory by location information like region, state and city
+
+### Project Flowchart
+![alt text](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/89bd29e451e0a86c4b48b4b2c1365ab74f0de3e4/Images/Architecture.png)
