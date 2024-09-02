@@ -6,8 +6,7 @@ Develop a dynamic dashboard to serve as a daily sales tracker for a bike-sharing
 #### Dashboard
 ![alt text](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/6b502428ef80b1bc4e78b22644fafeca84874deb/Images/Ride%20Dashboard.png)
 
-####
-Trip Details
+#### Trip Details
 ![alt text](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/6b502428ef80b1bc4e78b22644fafeca84874deb/Images/Trip%20Details.png)
 
 ### KPI Overview
