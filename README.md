@@ -1,10 +1,10 @@
 # End-to-End-Revenue-Tracker
 ### Business Task
 
-Develop a dynamic dashboard to serve as a daily sales tracker for a bike-sharing company. This dashboard will allow stakeholders to track and compare daily rides, analyzing metrics such as total revenue generated, number of rides, and average revenue per ride. Users can apply dynamic filters to drill down into the data by member type, historical date, product/bike type, hour of the day, and most popular route. This will provide valuable insights into usage patterns and help optimize operational strategies.
+Develop a dynamic dashboard to serve as a daily sales tracker for a bike-sharing company. This dashboard will allow stakeholders to track and compare daily rides, analyzing metrics such as total revenue generated, number of rides, and average revenue per ride. Users can apply dynamic filters to drill down into the data by date, hour of the day, member type, product/bike type, and bike route. This will provide valuable insights into usage patterns and help optimize operational strategies.
 
 ### Project Flowchart 
-The mian steps for this project can be summarized in the flow chart below:
+The main steps for this project can be summarized in the flow chart below:
 ![alt text](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/fff3e93d8ed63a5c9774dd8a847da6262172844b/Images/Architecture%20(1).png)
 
 #### Dashboard
