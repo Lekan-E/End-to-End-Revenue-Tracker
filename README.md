@@ -4,6 +4,8 @@
 Develop a dynamic dashboard to serve as a daily sales tracker for a bike-sharing company. This dashboard will allow stakeholders to track and compare daily rides, analyzing metrics such as total revenue generated, number of rides, and average revenue per ride. Users can apply dynamic filters to drill down into the data by member type, historical date, product/bike type, hour of the day, and most popular route. This will provide valuable insights into usage patterns and help optimize operational strategies.
 
 #### Dashboard
+Link to dashboard: [Here](https://public.tableau.com/views/HRDailyRidesDashboard/RideDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ![alt text](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/6b502428ef80b1bc4e78b22644fafeca84874deb/Images/Ride%20Dashboard.png)
 
 #### Trip Details
@@ -25,15 +27,13 @@ Electric Bike = $0.35/minute
 Docked Bike = $0.40/minute
 
 - Top Stations by number of rides
-- Total Number of Rides: Daily, by hour and by member type
-- Total rides by bike type
-- Average Ride Duration
-- Highlight highest revenue genrated routes
+- Total Number of Rides: By bike type Daily, by hour and by member 
+- Highest revenue genrated routes
 
 ### Dashboard Dynamic
 - The dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
-- Provide users with teh ability to navigate between the dashboards easily.
-- Make the charts and graphs interactive, eenabling users to filter data using the charts.
+- Provide users with the ability to navigate between the dashboards easily.
+- Make the charts and graphs interactive, enabling users to filter data using the charts.
 
 ### Data Filters
 Allow users to filter data by product information like category and subcategory by location information like region, state and city
