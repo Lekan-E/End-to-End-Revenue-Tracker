@@ -8,7 +8,7 @@ The main steps for this project can be summarized in the flow chart below:
 ![alt text](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/fff3e93d8ed63a5c9774dd8a847da6262172844b/Images/Architecture%20(1).png)
 
 #### Dashboard
-Link to dashboard: [Here](https://public.tableau.com/views/HRDailyRidesDashboard/RideDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Link to dashboard: [Here](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/5c24ce58bf112226d49f061b744d6bfc342faf22/Images/Ride%20Dashboard.png)
 
 ![alt text](https://github.com/Lekan-E/End-to-End-Revenue-Tracker/blob/6b502428ef80b1bc4e78b22644fafeca84874deb/Images/Ride%20Dashboard.png)
 
